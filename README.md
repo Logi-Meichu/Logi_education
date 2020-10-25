@@ -13,9 +13,9 @@
 * Logitech G Hub
 * Logitech perKey RGB keyboard
 #### 2. Running
-* unzipping `\Logi_education-main\logitype.zip`
+* unzipping `\Logi_education-master\logitype.zip`
 
-* run `\Logi_education-main\logitype\bin\x86\Debug\netcoreapp3.1`
+* run `\Logi_education-master\logitype\bin\x86\Debug\netcoreapp3.1`
 
 ### Windows splitter
 #### 1. Enviroment
@@ -28,7 +28,7 @@ https://github.com/Logitech/logi_craft_sdk/tree/master/samples/CraftPython
 #### 2. Setup
 * Replace `\logi_craft_sdk-master\samples\CraftPython\Craft.py` 
 
-with `\Logi_education-main\Logi_education-main\src\Craft\Craft.py`
+with `\Logi_education-master\Logi_education-master\src\Craft\Craft.py`
 #### 3. Running
 * Following the 2.3-3 step to Enable Windows splitter
 https://github.com/Logitech/logi_craft_sdk/tree/master/samples/CraftPython
