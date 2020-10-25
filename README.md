@@ -1,4 +1,4 @@
-# Logi_education
+# Logi education
 #### 2020 Mei-chu Hackathon - 317
 ## Introduction
 ### logitype
