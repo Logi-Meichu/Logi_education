@@ -17,6 +17,8 @@
 
 ### Windows splitter
 #### 1. Enviroment
+Install PyAutoGUI from command line:
+`pip install PyAutoGUI`
 Following the 1-2.2 step to install Logi Option
 https://github.com/Logitech/logi_craft_sdk/tree/master/samples/CraftPython
 #### 2. Setup
